@@ -1,0 +1,19 @@
+header h1{
+    text-align: center;
+}
+#countries-container {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    background-color: aliceblue;
+    gap: 20px;
+}
+
+.design{
+    padding: 20px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+
+}
+button{
+    background-color: brown;
+}
